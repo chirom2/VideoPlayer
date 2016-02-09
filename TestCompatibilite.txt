@@ -1,0 +1,4 @@
+IE11 - OK demande accès fichier distant
+Edge - OK avec fichier vidéo distant
+Chrome - OK
+Firefox - OK
